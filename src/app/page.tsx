@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { FaMoon, FaSun } from "react-icons/fa";
 import ProjectCard from "./components/ProjectCard";
 
-const projects = [
+const projects = [a
   {
     id: 1,
     title: "Chatbot conversacional com IA 100% autoral",
